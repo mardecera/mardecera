@@ -1,0 +1,13 @@
+{
+    "editor.formatOnSave": true,
+    // "[markdown]": {
+    //     "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+    // },
+    "markdown.extension.list.indentationSize": "inherit",
+    "markdown.extension.italic.indicator": "*",
+    "markdown.extension.orderedList.autoRenumber": true,
+    "markdown.extension.toc.orderedList": false,
+    "[markdown]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}

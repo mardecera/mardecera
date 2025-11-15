@@ -1,18 +1,17 @@
-
 <div align="center">
 <h2  align="center">Hi there, I'm Jhon 👋</h2>
 
 <div align="center">
-<a href="https://mardecera.com">
+<a href="https://mardecera.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/WEBSITE-E34F26?style=for-the-badge&logo=html5&logoColor=FEFEFF&color=121011" alt="Website" />
 </a>
-<a href="https://github.com/mardecera">
+<a href="https://github.com/mardecera"  style="text-decoration: none;">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://x.com/marrdecera">
+<a href="https://x.com/marrdecera"  style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&color=121011" alt="Twitter/X" />
 </a>
-<a href="https://www.linkedin.com/in/marrdecera/">
+<a href="https://www.linkedin.com/in/marrdecera/"  style="text-decoration: none;">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=121011" alt="LinkedIn" />
 </a>
 </div>
@@ -24,9 +23,9 @@ I'm a <strong>Software Developer</strong> with 1 year of experience in real-worl
 
 ### Work Experience
 
-| Company | Position            | Duration  |
-|---------|---------------------|-----------|
-| [Binland](https://github.com/Binlandorg) | ![Static Badge](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2)  |  Jan 2025 – Oct 2025   |
+| Company                                  | Position                                                                  | Duration            |
+| ---------------------------------------- | ------------------------------------------------------------------------- | ------------------- |
+| [Binland](https://github.com/Binlandorg) | ![Static Badge](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2) | Jan 2025 – Oct 2025 |
 
 ### Skills & Technologies
 
