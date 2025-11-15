@@ -13,6 +13,12 @@ I'm a <strong>Software Developer</strong> with 1 year of experience in real-worl
 </div>
 </div>
 
+### 💼 Work Experience
+
+| Company | Position            | Duration  |
+|---------|---------------------|-----------|
+| Binland | ![Static Badge](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2)  |  1 year   |
+
 ### 🛠️ Skills & Technologies
 
 <div align="center">
@@ -34,3 +40,5 @@ I'm a <strong>Software Developer</strong> with 1 year of experience in real-worl
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="22" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" height="22" />
 </div>
+
+![Profile Views](https://komarev.com/ghpvc/?username=mardecera&color=brightgreen&style=flat-square&label=Profile+Views)
