@@ -17,7 +17,7 @@ I'm a <strong>Software Developer</strong> with 1 year of experience in real-worl
 
 | Company | Position            | Duration  |
 |---------|---------------------|-----------|
-| Binland | ![Static Badge](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2)  |  1 year   |
+| [Binland](https://github.com/Binlandorg) | ![Static Badge](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2)  |  1 year   |
 
 ### 🛠️ Skills & Technologies
 
