@@ -13,13 +13,13 @@ I'm a <strong>Software Developer</strong> with 1 year of experience in real-worl
 </div>
 </div>
 
-### 💼 Work Experience
+### Work Experience
 
 | Company | Position            | Duration  |
 |---------|---------------------|-----------|
 | [Binland](https://github.com/Binlandorg) | ![Static Badge](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2)  |  1 year   |
 
-### 🛠️ Skills & Technologies
+### Skills & Technologies
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" height="22" />
