@@ -15,7 +15,7 @@ I'm a <strong>Software Developer</strong> with 1 year of experience in real-worl
 
 
 
-## 🛠️ Skills & Technologies
+### 🛠️ Skills & Technologies
 
 <div align="center">
 
