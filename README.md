@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Frontend-E34F26?style=for-the-badge&logo=html5&logoColor=FEFEFF&color=121011)](https://mardecera.com) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mardecera) [![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&color=121011)](https://x.com/marrdecera) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=121011)](https://www.linkedin.com/in/marrdecera/)
+[![Website](https://img.shields.io/badge/WEBSITE-E34F26?style=for-the-badge&logo=html5&logoColor=FEFEFF&color=121011)](https://mardecera.com) [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mardecera) [![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&color=121011)](https://x.com/marrdecera) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=121011)](https://www.linkedin.com/in/marrdecera/)
 
 </div>
 
