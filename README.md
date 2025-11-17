@@ -18,6 +18,12 @@ I'm a <strong>Software Developer</strong> with 1 year of experience in real-worl
 | ---------------------------------------- | ------------------------------------------------------------------------- | ------------------- |
 | [Binland](https://github.com/Binlandorg) | ![Static Badge](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2) | Jan 2025 – Oct 2025 |
 
+### Proyects
+
+| Name     | Description                                                                                                                                                                                                                                                                                                | Stack        | Duration            |
+| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------- |
+| Dicovert | I was responsible for the frontend development of a poultry management application, using Next.js, Ant Design, and integrating data through APIs with Axios and useQuery. I collaborated closely with the UX/UI design, backend, and QA teams, contributing ideas and improvements throughout the process. | Astro, React | Jan 2025 – Oct 2025 |
+
 ### Skills & Technologies
 
 <div align="center">
