@@ -16,13 +16,14 @@ I'm a <strong>Software Developer</strong> with 1 year of experience in real-worl
 
 | Company                                  | Position                                                                  | Duration            |
 | ---------------------------------------- | ------------------------------------------------------------------------- | ------------------- |
-| [Binland](https://github.com/Binlandorg) | ![Static Badge](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2) | Jan 2025 – Oct 2025 |
+| [Binland](https://github.com/Binlandorg) | ![Static Badge](https://img.shields.io/badge/Full_Stack_Developer-8A2BE2) | Feb 2025 – Jul 2025 |
 
 ### Proyects
 
-| Name     | Description                                                                                                                                                                                                                                                                                                | Stack        | Duration            |
-| -------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ------------------- |
-| Dicovert | I was responsible for the frontend development of a poultry management application, using Next.js, Ant Design, and integrating data through APIs with Axios and useQuery. I collaborated closely with the UX/UI design, backend, and QA teams, contributing ideas and improvements throughout the process. | Astro, React | Jan 2025 – Oct 2025 |
+| Name                                         | Description                                                                                                                                                                                                         | Stack               | Duration            |
+| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------- |
+| [Dicovert](https://dicovert.com/)            | I developed the frontend for Dicovert’s website (a metallurgical company), including image optimization, font optimization, responsive design, and various performance enhancements to improve its overall metrics. | Astro, React        | Jan 2025 – Oct 2025 |
+| [Pollos Control](https://polloscontrol.com/) | Led the frontend development of a poultry management application using Next.js, Ant Design, and API integrations with Axios and useQuery, collaborating closely with UX/UI, backend, and QA teams.                  | Next.js, Ant Design | Jan 2025 – May 2025 |
 
 ### Skills & Technologies
 
