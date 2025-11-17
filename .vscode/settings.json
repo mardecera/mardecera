@@ -6,6 +6,6 @@
 	"markdown.extension.toc.orderedList": false,
 	"[markdown]": {
 		"editor.defaultFormatter": "esbenp.prettier-vscode",
-		// "editor.wordWrap": "off"
+		"editor.wordWrap": "off"
 	}
 }
