@@ -20,10 +20,10 @@ I'm a <strong>Software Developer</strong> with 1 year of experience in real-worl
 
 ### Proyects
 
-| Name                                         | Description                                                                                                                                                                                                         | Stack               | Duration            |
-| -------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------- |
-| [Dicovert](https://dicovert.com/)            | I developed the frontend for Dicovert’s website (a metallurgical company), including image optimization, font optimization, responsive design, and various performance enhancements to improve its overall metrics. | Astro, React        | Jan 2025 – Oct 2025 |
-| [Pollos Control](https://polloscontrol.com/) | Led the frontend development of a poultry management application using Next.js, Ant Design, and API integrations with Axios and useQuery, collaborating closely with UX/UI, backend, and QA teams.                  | Next.js, Ant Design | Jan 2025 – May 2025 |
+| Name                                                 | Description                                                                                                                                                                                                         | Stack               | Duration            |
+| ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------- |
+| 🔩[&nbsp;Dicovert](https://dicovert.com/)            | I developed the frontend for Dicovert’s website (a metallurgical company), including image optimization, font optimization, responsive design, and various performance enhancements to improve its overall metrics. | Astro, React        | Jan 2025 – Oct 2025 |
+| 🐤[&nbsp;Pollos Control](https://polloscontrol.com/) | Led the frontend development of a poultry management application using Next.js, Ant Design, and API integrations with Axios and useQuery, collaborating closely with UX/UI, backend, and QA teams.                  | Next.js, Ant Design | Jan 2025 – May 2025 |
 
 ### Skills & Technologies
 
